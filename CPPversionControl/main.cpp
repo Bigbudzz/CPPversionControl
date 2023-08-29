@@ -23,6 +23,6 @@ int main()
 {
 	greet();
 	Attack();
-	Defend()
+	Defend();
 
 }
