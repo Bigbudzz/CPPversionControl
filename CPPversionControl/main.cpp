@@ -6,7 +6,14 @@ void greet ()
 	std::cout << "Welcome!\n\n";
 }
 
+void Attack()
+
+{
+	std::cout << "attacked!\n\n";
+}
+
 int main()
 {
 	greet();
+	Attack();
 }
